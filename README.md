@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🛠 技能
+
+📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/c++.svg" alt="c++">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python">
+</p>
 
 # Github stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsciencer)
