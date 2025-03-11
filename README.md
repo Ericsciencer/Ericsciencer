@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🛠 技能
-编程语言：Python C++ SQL    
-算法：强化学习、深度学习、优化算法    
-机器人 & 控制：C++ MATLAB ROS 嵌入式    
-计算机视觉：OpenCV Pytorch TensFlow    
+- **编程语言**：Python C++ SQL    
+- **算法**：强化学习、深度学习、优化算法    
+- **机器人 & 控制**：C++ MATLAB ROS 嵌入式    
+- **计算机视觉**：OpenCV Pytorch TensFlow    
 
 # Github stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsciencer)
