@@ -1,7 +1,7 @@
 <div align="center">
      
   <div>
-    <a href="https://baolanchen.github.io/">
+    <a href="https://github.com/Ericsciencer">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=980&lines=console.log(%22Hello%2C%20World!%22);Welcome to my Github! &center=true&size=35&color=#33ccff " />
     </a>
   </div>
