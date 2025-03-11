@@ -4,8 +4,6 @@
 🏫 **莫斯科国立大学**    
 🎯 **专注于机器学习、深度学习、计算机视觉、机器人控制领域**    
   
-   <!-- profile logo 个人资料徽标 -->
-  <div>
      <!-- csdn -->
      <a href="https://blog.csdn.net/qq_40712026?type=blog"><img src="https://blog.csdn.net/Eric005-博客-ff3300" /></a>&emsp;
       <!-- zhihu -->
