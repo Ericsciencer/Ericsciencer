@@ -1,8 +1,13 @@
-## 👋Yao Guozheng | 姚国铮
+<div align="center">
+     
+  <div>
+    <a href="https://baolanchen.github.io/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=980&lines=console.log(%22Hello%2C%20World!%22);Welcome to my little corner of the internet! &center=true&size=35&color=#33ccff " />
+    </a>
+  </div>
+   
+   <!-- cute cat pictures 图片-->
 
-📕 **应用数学与信息学 | 人工智能 | 机器人**    
-🏫 **莫斯科国立大学**    
-🎯 **专注于机器学习、深度学习、计算机视觉、机器人控制领域**    
    <!-- profile logo 个人资料徽标 -->
   <div>
      <!-- csdn -->
@@ -13,6 +18,19 @@
     <img src="https://komarev.com/ghpvc/?username=Ericsciencer&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
   </div>
+
+  
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+
+
+</div>
+
+
+## 👋About Me | 关于我
+
+📕 **应用数学与信息学 | 人工智能 | 机器人**    
+🏫 **莫斯科国立大学**    
+🎯 **专注于机器学习、深度学习、计算机视觉、机器人控制领域**    
 
   
 <!--
