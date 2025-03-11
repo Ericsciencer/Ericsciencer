@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+# Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericsciencer)
