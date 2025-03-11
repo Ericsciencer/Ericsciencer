@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!&fontSize=90&fontAlign=55&fontAlignY=28&desc=%D0%AF%20%D0%AD%D1%85%D0%BE-%D0%9D%D1%8C%D0%B5🐾&descAlign=50&descSize=30&descAlignY=56" />
+</p>
      
   <div>
     <a href="https://github.com/Ericsciencer">
