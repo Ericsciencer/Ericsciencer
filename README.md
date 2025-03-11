@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 - **机器人 & 控制**：C++ MATLAB ROS 嵌入式    
 - **计算机视觉**：OpenCV Pytorch TensFlow    
 
-# Github stats
+## 其它博客
+![Top Langs](https://stats.justsong.cn/api/zhihu?username=xin-shi-dai-zhu-yi-jie-ban-ren)
+## Github stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsciencer)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericsciencer)
