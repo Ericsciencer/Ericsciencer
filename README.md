@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 📍 For example :
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/c++.svg" alt="c++">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/c.svg" alt="c">
 </p>
 
 # Github stats
