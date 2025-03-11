@@ -1,10 +1,8 @@
 ## 👋Yao Guozheng | 姚国铮
 
-📕 **应用数学与信息学 | 人工智能 | 机器人**
-
-🏫 **莫斯科国立大学** 
-
-🎯 **专注于机器学习、深度学习、计算机视觉、机器人控制领域** 
+📕 **应用数学与信息学 | 人工智能 | 机器人**    
+🏫 **莫斯科国立大学**    
+🎯 **专注于机器学习、深度学习、计算机视觉、机器人控制领域**    
 
 <!--
 **Ericsciencer/Ericsciencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
