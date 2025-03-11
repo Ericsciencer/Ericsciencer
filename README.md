@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - **计算机视觉**：OpenCV Pytorch TensFlow    
 
 ## 其它博客
-![Top Langs](https://stats.justsong.cn/api/zhihu?username=xin-shi-dai-zhu-yi-jie-ban-ren)
+![Top Langs](https://www.zhihu.com/people/xin-shi-dai-zhu-yi-jie-ban-ren)
 ## Github stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsciencer)
 
