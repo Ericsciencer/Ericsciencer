@@ -52,10 +52,12 @@ Here are some ideas to get you started:
 -->
 
 ## 🛠 技能
-- **编程语言**：Python C++ SQL    
-- **算法**：强化学习、深度学习、优化算法    
-- **机器人 & 控制**：C++ MATLAB ROS 嵌入式    
+- **编程语言**：Python C++ SQL Mathcad MATLAB Scilab    
+- **算法**：机器学习、深度学习、控制算法    
+- **机器人 & 控制**：C++ MATLAB ROS 嵌入式      
 - **计算机视觉**：OpenCV Pytorch TensFlow    
+- **硬件**：Arduino STM32 AVR 树莓派 NVIDIA_Nano     
+- **制图**：AutoCAD Soildworks КОМПАС-3D
 
 ## Github stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsciencer)
