@@ -34,7 +34,7 @@
 - 🎓 **应用数学与信息学 | 人工智能与机器人**    
 - 🏫 **莫斯科国立大学**    
 - 🎯 **研究领域**：机器学习、深度学习、计算机视觉、机器人控制    
-- 📫 **邮箱**：yaoguozheng0226@163.com
+- 📫 **邮箱**：yaoguozheng0226@163.com    
 
   
 <!--
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🛠 技能
+## 🛠 Skills | 技能
 - **编程语言**：Python C++ SQL Mathcad MATLAB Scilab    
 - **算法**：机器学习、深度学习、控制算法    
 - **机器人 & 控制**：C++ MATLAB ROS 嵌入式      
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - **硬件**：Arduino STM32 AVR 树莓派 NVIDIA_Nano     
 - **制图**：AutoCAD Soildworks КОМПАС-3D
 
-## 📊 Github stats
+## 📊 Github stats | 数据
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsciencer)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericsciencer)
