@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=Hi%20There！&fontSize=90&fontAlign=55&fontAlignY=28&desc=I%20'm%20Yao%20Guozheng&descAlign=50&descSize=30&descAlignY=56" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=Hi%20There！&fontSize=90&fontAlign=55&fontAlignY=28&desc=I%20'm%20Yao&descAlign=50&descSize=30&descAlignY=56" />
 </p>    
      
   <div>
@@ -33,8 +33,7 @@
 
 - 🎓 **应用数学与信息学 | 人工智能与机器人**    
 - 🏫 **莫斯科国立大学**    
-- 🎯 **研究领域**：机器学习、深度学习、计算机视觉、机器人控制    
-- 📫 **邮箱**：yaoguozheng0226@163.com    
+- 🎯 **研究领域**：机器学习、深度学习、计算机视觉、机器人控制     
 
   
 <!--
