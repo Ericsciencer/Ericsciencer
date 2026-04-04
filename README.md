@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 - **硬件**：Arduino STM32 AVR 树莓派 NVIDIA_Nano     
 - **制图**：AutoCAD Soildworks КОМПАС-3D
 
+## ⚡ Projects | 项目
+- [LeNet论文复现](https://github.com/Ericsciencer/LeNet)
+
 ## 📊 Github stats | 数据
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericsciencer&theme=radical)
 
