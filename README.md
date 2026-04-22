@@ -64,6 +64,7 @@ Here are some ideas to get you started:
      - [LeNet论文复现](https://github.com/Ericsciencer/LeNet)
      - [AlexNet论文复现](https://github.com/Ericsciencer/AlexNet)
      - [VGG论文复现](https://github.com/Ericsciencer/VGG)
+     - [NiN论文复现](https://github.com/Ericsciencer/NiN)
 
 ## 📊 Github stats | 数据
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericsciencer&theme=radical)
