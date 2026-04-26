@@ -67,6 +67,7 @@ Here are some ideas to get you started:
      - [NiN论文复现](https://github.com/Ericsciencer/NiN)
      - [GoogLeNet论文复现](https://github.com/Ericsciencer/GoogLeNet)
      - [ResNet论文复现](https://github.com/Ericsciencer/ResNet)
+     - [DenseNet论文复现](https://github.com/Ericsciencer/DenseNet)
      - [迁移学习](https://github.com/Ericsciencer/Transfer-Learning)
 
 ## 📊 Github stats | 数据
