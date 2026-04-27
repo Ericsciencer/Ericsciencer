@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ## ⚡ Projects | 项目
 经典卷积神经网络：LeNet, AlexNet, VGG, NiN, GoogLeNet, ResNet, DenseNet
 
-轻量化技术：MobileNet
+轻量化技术：MobileNet, SENet
 
 深度学习方法：迁移学习
 
@@ -75,6 +75,7 @@ Here are some ideas to get you started:
      - [ResNet论文复现](https://github.com/Ericsciencer/ResNet)
      - [DenseNet论文复现](https://github.com/Ericsciencer/DenseNet)
      - [MobileNet论文复现](https://github.com/Ericsciencer/MobileNet)
+     - [SENet论文复现](https://github.com/Ericsciencer/SENet)
      - [迁移学习](https://github.com/Ericsciencer/Transfer-Learning)
 
 ## 📊 Github stats | 数据
