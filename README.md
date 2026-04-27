@@ -71,7 +71,7 @@ Here are some ideas to get you started:
      - [GoogLeNet论文复现](https://github.com/Ericsciencer/GoogLeNet)
      - [ResNet论文复现](https://github.com/Ericsciencer/ResNet)
      - [DenseNet论文复现](https://github.com/Ericsciencer/DenseNet)
-     - [MobileNet](https://github.com/Ericsciencer/MobileNet)
+     - [MobileNet论文复现](https://github.com/Ericsciencer/MobileNet)
      - [迁移学习](https://github.com/Ericsciencer/Transfer-Learning)
 
 ## 📊 Github stats | 数据
