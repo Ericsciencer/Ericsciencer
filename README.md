@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 - **制图**：AutoCAD Soildworks КОМПАС-3D
 
 ## ⚡ Projects | 项目
+经典卷积神经网络：LeNet, AlexNet, VGG, NiN, GoogLeNet, ResNet, DenseNet
+轻量化技术：MobileNet
 - 图像分类
      - [LeNet论文复现](https://github.com/Ericsciencer/LeNet)
      - [AlexNet论文复现](https://github.com/Ericsciencer/AlexNet)
