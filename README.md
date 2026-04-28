@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ## ⚡ Projects | 项目
 经典卷积神经网络：LeNet, AlexNet, VGG, NiN, GoogLeNet, ResNet, DenseNet
 
-轻量化技术：MobileNet, SENet
+轻量化技术：MobileNet, SENet, ShuffleNet, MobileNetV2, MobileNetV3
 
 深度学习方法：迁移学习
 
