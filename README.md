@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 目标检测：R-CNN(2014)
 
-深度学习方法：迁移学习
+机器学习方法：迁移学习
 
 - 图像分类
      - [LeNet论文复现](https://github.com/Ericsciencer/LeNet)
