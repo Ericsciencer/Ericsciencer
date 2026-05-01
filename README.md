@@ -81,6 +81,7 @@ Here are some ideas to get you started:
      - [SENet论文复现](https://github.com/Ericsciencer/SENet)
      - [ShuffleNet论文复现](https://github.com/Ericsciencer/ShuffleNet)
      - [MobileNetV2论文复现](https://github.com/Ericsciencer/MobileNet-V2)
+     - [MobileNetV3论文复现](https://github.com/Ericsciencer/MobileNet-V3)
      
 - 目标检测
      - [R-CNN论文复现](https://github.com/Ericsciencer/R-CNN)
