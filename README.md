@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ## ⚡ Projects | 项目
 经典卷积神经网络：LeNet(1998), AlexNet(2012), NiN(2013), VGG(2014), GoogLeNet(2014), ResNet(2015), DenseNet(2016)
 
-轻量化技术：MobileNet(2017), SENet(2017), ShuffleNet(2017), MobileNetV2(2018), MobileNetV3(2019)
+轻量化技术：MobileNet(2017), SENet(2017), ShuffleNet(2017), MobileNetV2(2018), MobileNetV3(2019), EfficientNet(2019)
 
 目标检测：R-CNN(2014)
 
@@ -82,6 +82,7 @@ Here are some ideas to get you started:
      - [ShuffleNet论文复现](https://github.com/Ericsciencer/ShuffleNet)
      - [MobileNetV2论文复现](https://github.com/Ericsciencer/MobileNet-V2)
      - [MobileNetV3论文复现](https://github.com/Ericsciencer/MobileNet-V3)
+     - [EfficientNet论文复现](https://github.com/Ericsciencer/EfficientNet)
      
 - 目标检测
      - [R-CNN论文复现](https://github.com/Ericsciencer/R-CNN)
