@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 - **制图**：AutoCAD Soildworks КОМПАС-3D
 
 ## ⚡ Projects | 项目
-经典卷积神经网络：LeNet(1998), AlexNet(2012), NiN(2013), VGG(2014), GoogLeNet(2014), ResNet(2015), DenseNet(2016)
+经典卷积神经网络：LeNet(1998), AlexNet(2012), NiN(2013), VGG(2014), GoogLeNet(2014), ResNet(2015), DenseNet(2016), EfficientNet(2019)
 
-轻量化技术：MobileNet(2017), SENet(2017), ShuffleNet(2017), MobileNetV2(2018), MobileNetV3(2019), EfficientNet(2019)
+轻量化技术：MobileNet(2017), SENet(2017), ShuffleNet(2017), MobileNetV2(2018), MobileNetV3(2019)
 
 目标检测：R-CNN(2014)
 
