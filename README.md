@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 轻量化技术：MobileNet(2017), SENet(2017), ShuffleNet(2017), MobileNetV2(2018), MobileNetV3(2019)
 
-目标检测：R-CNN(2014)
+目标检测：R-CNN(2014), Fast R-CNN(2015), Faster R-CNN
 
 机器学习方法：迁移学习
 
@@ -86,6 +86,7 @@ Here are some ideas to get you started:
      
 - 目标检测
      - [R-CNN论文复现](https://github.com/Ericsciencer/R-CNN)
+     - [Fast R-CNN论文复现](https://github.com/Ericsciencer/Fast_R-CNN)
 
 ## 📊 Github stats | 数据
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericsciencer&theme=radical)
