@@ -68,26 +68,32 @@ Here are some ideas to get you started:
 
 机器学习方法：迁移学习
 
-- 图像分类
-     - [LeNet论文复现](https://github.com/Ericsciencer/LeNet)
-     - [AlexNet论文复现](https://github.com/Ericsciencer/AlexNet)
-     - [NiN论文复现](https://github.com/Ericsciencer/NiN)
-     - [VGG论文复现](https://github.com/Ericsciencer/VGG)
-     - [GoogLeNet论文复现](https://github.com/Ericsciencer/GoogLeNet)
-     - [ResNet论文复现](https://github.com/Ericsciencer/ResNet)
-     - [迁移学习](https://github.com/Ericsciencer/Transfer-Learning)
-     - [DenseNet论文复现](https://github.com/Ericsciencer/DenseNet)
-     - [MobileNet论文复现](https://github.com/Ericsciencer/MobileNet)
-     - [SENet论文复现](https://github.com/Ericsciencer/SENet)
-     - [ShuffleNet论文复现](https://github.com/Ericsciencer/ShuffleNet)
-     - [MobileNetV2论文复现](https://github.com/Ericsciencer/MobileNet-V2)
-     - [MobileNetV3论文复现](https://github.com/Ericsciencer/MobileNet-V3)
-     - [EfficientNet论文复现](https://github.com/Ericsciencer/EfficientNet)
+自然语言处理：Transformer(2017)
+
+- 计算机视觉
+     - 图像分类
+          - [LeNet论文复现](https://github.com/Ericsciencer/LeNet)
+          - [AlexNet论文复现](https://github.com/Ericsciencer/AlexNet)
+          - [NiN论文复现](https://github.com/Ericsciencer/NiN)
+          - [VGG论文复现](https://github.com/Ericsciencer/VGG)
+          - [GoogLeNet论文复现](https://github.com/Ericsciencer/GoogLeNet)
+          - [ResNet论文复现](https://github.com/Ericsciencer/ResNet)
+          - [迁移学习](https://github.com/Ericsciencer/Transfer-Learning)
+          - [DenseNet论文复现](https://github.com/Ericsciencer/DenseNet)
+          - [MobileNet论文复现](https://github.com/Ericsciencer/MobileNet)
+          - [SENet论文复现](https://github.com/Ericsciencer/SENet)
+          - [ShuffleNet论文复现](https://github.com/Ericsciencer/ShuffleNet)
+          - [MobileNetV2论文复现](https://github.com/Ericsciencer/MobileNet-V2)
+          - [MobileNetV3论文复现](https://github.com/Ericsciencer/MobileNet-V3)
+          - [EfficientNet论文复现](https://github.com/Ericsciencer/EfficientNet)
      
-- 目标检测
-     - [R-CNN论文复现](https://github.com/Ericsciencer/R-CNN)
-     - [Fast R-CNN论文复现](https://github.com/Ericsciencer/Fast_R-CNN)
-     - [Faster R-CNN论文复现](https://github.com/Ericsciencer/Faster_R-CNN)
+     - 目标检测
+          - [R-CNN论文复现](https://github.com/Ericsciencer/R-CNN)
+          - [Fast R-CNN论文复现](https://github.com/Ericsciencer/Fast_R-CNN)
+          - [Faster R-CNN论文复现](https://github.com/Ericsciencer/Faster_R-CNN)
+
+- 自然语言处理
+     - [Transformer论文复现](https://github.com/Ericsciencer/Transformer)
 
 ## 📊 Github stats | 数据
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericsciencer&theme=radical)
