@@ -18,7 +18,8 @@
       <!-- zhihu -->
      <a href="https://www.zhihu.com/people/xin-shi-dai-zhu-yi-jie-ban-ren"><img src="https://img.shields.io/badge/Zhihu-知乎-3399ff" /></a>&emsp;     
     <!-- visitor -->
-    <img src="https://profile-counter.glitch.me/Ericsciencer/count.svg" alt="访问量统计" />&emsp;
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ericsciencer.Ericsciencer&left_text=Views&left_color=gray&right_color=orange" alt="访问量统计" />&emsp;
+
 
   </div>
 
