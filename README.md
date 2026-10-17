@@ -18,7 +18,7 @@
       <!-- zhihu -->
      <a href="https://www.zhihu.com/people/xin-shi-dai-zhu-yi-jie-ban-ren"><img src="https://img.shields.io/badge/Zhihu-知乎-3399ff" /></a>&emsp;     
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=Ericsciencer&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://profile-counter.glitch.me/Ericsciencer/count.svg" alt="访问量统计" />&emsp;
 
   </div>
 
@@ -93,7 +93,8 @@ Here are some ideas to get you started:
           - [Faster R-CNN论文复现](https://github.com/Ericsciencer/Faster_R-CNN)
 
 - 自然语言处理
-     - [Transformer论文复现](https://github.com/Ericsciencer/Transformer)
+     - 机器翻译
+          - [Transformer论文复现](https://github.com/Ericsciencer/Transformer)
 
 ## 📊 Github stats | 数据
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericsciencer&theme=radical)
