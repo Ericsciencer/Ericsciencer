@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 - **制图**：AutoCAD Soildworks КОМПАС-3D
 
 ## ⚡ Projects | 项目
-经典卷积神经网络：LeNet(1998), AlexNet(2012), NiN(2013), VGG(2014), GoogLeNet(2014), ResNet(2015), DenseNet(2016), EfficientNet(2019)
+
+卷积神经网络架构：LeNet(1998), AlexNet(2012), NiN(2013), VGG(2014), GoogLeNet(2014), ResNet(2015), DenseNet(2016), EfficientNet(2019)
 
 轻量化技术：MobileNet(2017), SENet(2017), ShuffleNet(2017), MobileNetV2(2018), MobileNetV3(2019)
 
@@ -69,7 +70,7 @@ Here are some ideas to get you started:
 
 机器学习方法：迁移学习
 
-自然语言处理：Transformer(2017)
+Transformer架构：Transformer(2017), ViT(2020)
 
 - 计算机视觉
      - 图像分类
@@ -87,6 +88,7 @@ Here are some ideas to get you started:
           - [MobileNetV2论文复现](https://github.com/Ericsciencer/MobileNet-V2)
           - [MobileNetV3论文复现](https://github.com/Ericsciencer/MobileNet-V3)
           - [EfficientNet论文复现](https://github.com/Ericsciencer/EfficientNet)
+          - [Vision Transformer论文复现](https://github.com/Ericsciencer/Vision-Transformer)
      
      - 目标检测
           - [R-CNN论文复现](https://github.com/Ericsciencer/R-CNN)
