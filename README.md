@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 机器学习方法：迁移学习
 
-Transformer架构：Transformer(2017), ViT(2020)
+Transformer架构：Transformer(2017), BERT(2019), ViT(2020)
 
 - 计算机视觉
      - 图像分类
@@ -98,6 +98,8 @@ Transformer架构：Transformer(2017), ViT(2020)
 - 自然语言处理
      - 机器翻译
           - [Transformer论文复现](https://github.com/Ericsciencer/Transformer)
+     - 情感分类
+          - [BERT论文复现](https://github.com/Ericsciencer/BERT) 
 
 ## 📊 Github stats | 数据
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericsciencer&theme=radical)
