@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 
 Transformer架构：Transformer(2017), BERT(2019), ViT(2020), CLIP(2021)
 
+生成模型：VAE(2013)
+
 - 计算机视觉
      - 图像分类
           - [LeNet论文复现](https://github.com/Ericsciencer/LeNet)
