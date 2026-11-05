@@ -96,6 +96,9 @@ Transformer架构：Transformer(2017), BERT(2019), ViT(2020), CLIP(2021)
           - [R-CNN论文复现](https://github.com/Ericsciencer/R-CNN)
           - [Fast R-CNN论文复现](https://github.com/Ericsciencer/Fast_R-CNN)
           - [Faster R-CNN论文复现](https://github.com/Ericsciencer/Faster_R-CNN)
+      
+     - 生成模型
+          - [VAE论文复现](https://github.com/Ericsciencer/VAE)
 
 - 自然语言处理
      - 机器翻译
