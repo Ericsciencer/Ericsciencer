@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 机器学习方法：迁移学习
 
-Transformer架构：Transformer(2017), BERT(2019), ViT(2020), CLIP(2021)
+Transformer架构：Transformer(2017), BERT(2019), ViT(2020), CLIP(2021), SigLIP(2023)
 
 生成模型：VAE(2013)
 
@@ -109,6 +109,7 @@ Transformer架构：Transformer(2017), BERT(2019), ViT(2020), CLIP(2021)
 - 多模态
      - 图文对齐
           - [CLIP论文复现](https://github.com/Ericsciencer/CLIP)
+          - [SigLIP论文复现](https://github.com/Ericsciencer/SigLIP)
 
 ## 📊 Github stats | 数据
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericsciencer&theme=radical)
