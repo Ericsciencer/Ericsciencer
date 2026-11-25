@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 Transformer架构：Transformer(2017), BERT(2019), ViT(2020), CLIP(2021), SigLIP(2023)
 
-生成模型：VAE(2013), GAN(2014)
+生成模型：VAE(2013), GAN(2014), CVAE(2015)
 
 - 计算机视觉
      - 图像分类
@@ -100,6 +100,7 @@ Transformer架构：Transformer(2017), BERT(2019), ViT(2020), CLIP(2021), SigLIP
      - 生成模型
           - [VAE论文复现](https://github.com/Ericsciencer/VAE)
           - [GAN论文复现](https://github.com/Ericsciencer/GAN)
+          - [CVAE论文复现](https://github.com/Ericsciencer/CVAE)
 
 - 自然语言处理
      - 机器翻译
